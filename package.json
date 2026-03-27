@@ -1,0 +1,14 @@
+{
+  "name": "warps-tip-bot-backend",
+  "version": "0.1.0",
+  "description": "Backend logic for automated tipping bots on Farcaster",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
